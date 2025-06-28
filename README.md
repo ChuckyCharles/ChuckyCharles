@@ -1,7 +1,5 @@
 <h3 align="center">A passionate Cloud Infrastructure Engineer and DevOps engineer</h3>
 
-- 🔭 I’m currently working on [Post automation using AWS](https://github.com/ChuckyCharles/Post-Automation-in-AWS)
-
 - 🌱 I’m currently learning **Cloud architectural design and advanced kubernetes**
 
 - 📫 How to reach me **charlesochieng531@gmail.com**
