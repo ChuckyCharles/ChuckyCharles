@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **charlesochieng531@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EEzu4pXd7wk1d9uUF0S27YsvGCopWr2Z/view?usp=sharing](https://drive.google.com/file/d/1EEzu4pXd7wk1d9uUF0S27YsvGCopWr2Z/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@charleso21441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@charleso21441" height="30" width="40" /></a>
