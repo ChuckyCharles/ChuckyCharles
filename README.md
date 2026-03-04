@@ -1,15 +1,13 @@
 <h3 align="center">A passionate Cloud Infrastructure Engineer and DevOps engineer</h3>
 
-- 🌱 I’m currently learning **Cloud architectural design and advanced kubernetes**
+- 🌱 I’m currently on **Cloud architectural design and advanced kubernetes**
 
 - 📫 How to reach me **charlesochieng531@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@charleso21441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@charleso21441" height="30" width="40" /></a>
+<a href="https://twitter.com/@charleso21441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Charles1Ochieng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charles-ochieng-177ba3253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-ochieng-177ba3253" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=61563616826503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=61563616826503" height="30" width="40" /></a>
-<a href="https://instagram.com/charlesochieng878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charlesochieng878" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
